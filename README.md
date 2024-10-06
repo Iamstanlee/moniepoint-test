@@ -2,4 +2,4 @@
 
 ## Preview
 
-<video src="preview.mp4" width="300px"/>
+<video src="preview.mp4" width="300px"></video>
