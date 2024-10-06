@@ -1,5 +1,5 @@
 # real_estate_moniepoint_test
 
-## Preview And Screenshots
+## Preview
 
-<video src="/preview.mp4" width="300px"/>
+<video src="preview.mp4" width="300px"/>
